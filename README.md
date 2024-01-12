@@ -65,10 +65,10 @@ After completing all the previous steps, you can run each of the servers with th
 
 ```
 // Run the payment-server
-npx nodemon
+npm start
 
 // Run the wallet-server
-npx nodemon
+npm start
 ```
 
 The payment-server (Payment Service) will be available at http://localhost:6000, and the wallet-server (Wallet Service) will be available at http://localhost:4000 when you run them locally on your machine. 
